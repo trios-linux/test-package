@@ -1,3 +1,10 @@
+trios-test-package (0.2.0) mia; urgency=low
+
+  * Simplify rules.
+
+ -- Filip Danilovic <filip@openmailbox.org>  Thu, 02 Apr 2015 23:35:00 +0100
+
+
 trios-test-package (0.1.0) debian; urgency=low
 
   * Initial release
