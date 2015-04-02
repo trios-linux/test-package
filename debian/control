@@ -1,0 +1,13 @@
+Source: trios-test-package
+Section: misc
+Priority: optional
+Maintainer: Filip Danilovic <filip@openmailbox.org>
+Build-Depends: debhelper (>= 5)
+Standards-Version: 3.9.6
+
+Package: trios-test-package
+Architecture: all
+Section: misc
+Priority: optional
+Description: Almost empty package.
+ Meant for testing Jenkins config, without spoiling the weather on regular pkgs.

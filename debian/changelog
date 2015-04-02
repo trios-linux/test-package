@@ -1,0 +1,5 @@
+trios-test-package (0.1.0) debian; urgency=low
+
+  * Initial release
+
+ -- Filip Danilovic <filip@openmailbox.org>  Thu, 02 Apr 2015 22:50:00 +0100
